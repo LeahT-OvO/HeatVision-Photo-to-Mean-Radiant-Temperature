@@ -1,4 +1,4 @@
-# P2MRT — Photo to Mean Radiant Temperature
+# HeatVision — Photo to Mean Radiant Temperature
 
 Short description
 - Convert images / photo data into mean radiant temperature (MRT) estimates.
